@@ -11,6 +11,7 @@ Instalar las siguientes bibliotecas:
 ```bash
 pip install numpy==1.23.5 --force-reinstall
 pip install pandas matplotlib fitter kagglehub --upgrade --force-reinstall
+!pip install fitter
 ```
 
 ## Descripción
